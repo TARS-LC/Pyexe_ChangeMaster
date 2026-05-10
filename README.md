@@ -1,2 +1,3 @@
 # Pyexe_ChangeMaster
 Pyを確実にexe化します。
+プログラムの横にPythonのruntimeフォルダを丸ごと置いてください。
